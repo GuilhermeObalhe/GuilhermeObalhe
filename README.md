@@ -1,7 +1,7 @@
 ## Olá! 👋
 
-- 🔭 Hoje sou estudante de Física
-- 🌱 Estudando Python, SQL e R
+- 🔭 Hoje sou estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando HTML, CSS, Javascript, React e NodeJS
 - 😄 Pronomes: Ele/Dele
 
 <div>
